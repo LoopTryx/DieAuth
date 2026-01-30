@@ -102,6 +102,23 @@ The author does **not** condone misuse and accepts **no liability** for actions 
 * **Root privileges**
 
 ---
+## How to Use
+
+1. **Make scripts executable:**
+
+```bash
+chmod +x ./install.sh
+chmod +x ./run.sh
+```
+2. **Run the Installer:**
+```bash
+./install.sh
+```
+
+3. **Run the application!**
+```bash
+./run.sh
+```     
 
 ## Intended Use
 
