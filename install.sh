@@ -40,7 +40,7 @@ echo -e "${RED}╚════════════════════�
 echo ""
 
 echo -e "${GREEN}[*] Updating package lists...${NC}"
-apt update -y >/dev/null
+apt update -y
 
 echo -e "${GREEN}[*] Installing dependencies...${NC}"
 apt install -y \
